@@ -12,7 +12,7 @@ Olá, sou o Luigi!
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=luigibrugs&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-<img src="https://github-readme-stats.vercel.app/api?username=luigibrugs&show_icons=true&theme=highcontrast" height="220" alt="stats graph"  />
+
 
 </div>
 <!---
